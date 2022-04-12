@@ -14,6 +14,8 @@
   
   ## Installation
   Open link to deployed application.
+  ## Deployed
+  <a href = 'https://jatetexteditorzjsdu.herokuapp.com/'>Link to deployed App<a/>
   ## License
     This project is covered by the Mozilla license. 
     Click the license button at the top of this file to learn more.
